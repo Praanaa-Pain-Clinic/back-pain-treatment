@@ -1,2 +1,2 @@
-# back-pain-treatment-live
-Production version of Praanaa Back Pain Landing Page
+# back-pain-treatment
+Landing page for Back Pain Treatment – Praanaa Pain Clinic
